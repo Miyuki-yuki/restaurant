@@ -1,5 +1,7 @@
 # Restaurant: A Swift-based Clone of [Original Food Review Platform]
 
+![App Screenshot](./assets/screen.png)
+
 ## Overview
 Restaurant is an iOS app developed in Swift.  Users can browse the restaurant around them.
 
