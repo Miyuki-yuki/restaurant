@@ -1,6 +1,5 @@
 # Restaurant: A Swift-based Clone of [Original Food Review Platform]
-
-![App Screenshot](./assets/screen.png)
+![gallary](https://github.com/Miyuki-yuki/restaurant/assets/87884079/a6413026-5f4f-4f2e-b21a-dde09f45f945) ![App Screenshot](./assets/screen.png)
 
 ## Overview
 Restaurant is an iOS app developed in Swift.  Users can browse the restaurant around them.
